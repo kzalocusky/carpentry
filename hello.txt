@@ -1,3 +1,1 @@
-hello world, how's it going?
-
-I'm at bootcamp.
+hello world, I'm editing on GitHub
